@@ -1,0 +1,7 @@
+employee_id,name,department,salary
+101,Rahul,IT,35000
+102,Aman,HR,28000
+103,Priya,IT,45000
+102,Aman,HR,28000
+104,,Sales,32000
+105,Rohit,Finance,-5000
